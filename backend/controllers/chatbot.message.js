@@ -217,6 +217,50 @@ export const Message=async(req,res)=>{
   "why should i smile": "Because your smile can brighten someone’s entire day 😊",
 
 
+  "what is red color": "❤️ Red is the color of love, passion, energy, and confidence.",
+
+  "what is blue color": "💙 Blue represents peace, trust, calmness, and intelligence.",
+
+  "what is green color": "💚 Green symbolizes nature, growth, freshness, and harmony.",
+
+  "what is yellow color": "💛 Yellow is the color of happiness, positivity, and sunshine.",
+
+  "what is black color": "🖤 Black represents power, elegance, mystery, and strength.",
+
+  "what is white color": "🤍 White symbolizes peace, purity, simplicity, and innocence.",
+
+  "what is pink color": "💖 Pink is the color of love, kindness, sweetness, and care.",
+
+  "what is purple color": "💜 Purple represents royalty, creativity, luxury, and wisdom.",
+
+  "what is orange color": "🧡 Orange symbolizes energy, enthusiasm, creativity, and warmth.",
+   "what is color": "🎨 Colors make the world beautiful and express different emotions, feelings, and meanings.",
+  "what is brown color": "🤎 Brown represents stability, earth, comfort, and reliability.",
+
+  "what is grey color": "🩶 Grey symbolizes balance, maturity, calmness, and neutrality.",
+
+  "what is silver color": "✨ Silver represents elegance, modernity, and sophistication.",
+
+  "what is gold color": "🏆 Gold symbolizes success, wealth, victory, and luxury.",
+
+  "what is cyan color": "🌊 Cyan represents freshness, clarity, and cool energy.",
+
+  "what is magenta color": "🌺 Magenta symbolizes creativity, imagination, and uniqueness.",
+
+  "what is violet color": "🔮 Violet represents spirituality, mystery, and imagination.",
+
+  "what is navy blue color": "⚓ Navy Blue symbolizes confidence, authority, and loyalty.",
+
+  "what is sky blue color": "☁️ Sky Blue represents freedom, peace, and open-mindedness.",
+
+  "what is maroon color": "🍷 Maroon symbolizes strength, passion, and sophistication.",
+
+  "what is beige color": "🌾 Beige represents simplicity, calmness, and comfort.",
+
+  "what is turquoise color": "🌴 Turquoise symbolizes healing, calmness, and positivity.",
+
+  "what is indigo color": "🌌 Indigo represents intuition, wisdom, and deep thinking.",
+
   "how is your day": "My day is going great 😄 Thanks for asking!",
   
   "good afternoon": "Good Afternoon ☀️ Hope your day is going awesome!",
@@ -305,6 +349,83 @@ export const Message=async(req,res)=>{
 
   "i want success": "Keep learning and stay consistent 🚀 Success will follow.",
 
+  "what is car": "🚗 A car is a vehicle used for traveling comfortably from one place to another.",
+
+  "what is bike": "🏍️ A bike is a fast and convenient two-wheeler loved by many people.",
+
+  "what is vehicle": "🚘 A vehicle is any machine used for transportation like cars, bikes, buses, and trucks.",
+
+  "which car is best": "✨ The best car depends on comfort, budget, mileage, and personal preference.",
+
+  "which bike is best": "🏍️ The best bike depends on speed, mileage, style, and performance.",
+
+  "what is electric car": "⚡ An electric car runs on batteries instead of fuel and helps reduce pollution.",
+
+  "what is sports car": "🏎️ A sports car is designed for high speed, performance, and stylish looks.",
+
+  "what is luxury car": "💎 A luxury car offers premium comfort, advanced features, and elegance.",
+
+  "why cars are important": "🚗 Cars make travel faster, easier, and more comfortable.",
+
+  "why bikes are popular": "🏍️ Bikes are affordable, stylish, and easy to ride in traffic.",
+
+  "what is fuel": "⛽ Fuel provides energy for vehicles to run.",
+
+  "what is engine": "⚙️ The engine is the heart of a vehicle that generates power.",
+
+  "what is steering": "🛞 Steering helps control the direction of a vehicle.",
+
+  "what is brake": "🛑 Brakes help stop or slow down a vehicle safely.",
+
+  "what is mileage": "📍 Mileage shows how far a vehicle can travel using a certain amount of fuel.",
+
+  "what is speed": "💨 Speed tells how fast a vehicle is moving.",
+
+  "what is traffic": "🚦 Traffic happens when many vehicles are on the road at the same time.",
+
+  "what is road safety": "🛣️ Road safety means following rules to prevent accidents and stay safe.",
+
+  "why seatbelt is important": "🔒 Seatbelts protect passengers during accidents and save lives.",
+
+  "what is helmet": "⛑️ A helmet protects the head while riding a bike.",
+
+  "what is truck": "🚚 A truck is a large vehicle used for transporting goods.",
+
+  "what is bus": "🚌 A bus carries many passengers together for travel.",
+
+  "what is train": "🚆 A train is a fast transport system that runs on tracks.",
+
+  "what is airplane": "✈️ An airplane is used for fast travel through the sky.",
+
+  "what is ship": "🚢 A ship is a large water vehicle used for travel and transport.",
+
+  "which vehicle is fastest": "🚀 Airplanes are among the fastest transportation vehicles in the world.",
+
+  "tell me about ferrari": "🏎️ Ferrari is famous for luxury sports cars and powerful performance.",
+
+  "tell me about tesla": "⚡ Tesla is known for innovative electric vehicles and advanced technology.",
+
+  "tell me about bmw": "🚘 BMW is popular for luxury, speed, and driving comfort.",
+
+  "tell me about bugatti": "🔥 Bugatti creates some of the fastest and most expensive cars in the world.",
+
+  "tell me about lamborghini": "💛 Lamborghini is famous for aggressive design and superfast sports cars.",
+
+  "do you like cars": "🚗 Yes! Cars are a great mix of technology, design, and speed.",
+
+  "do you like bikes": "🏍️ Absolutely! Bikes give freedom, adventure, and excitement.",
+
+  "what is dream car": "✨ A dream car is the vehicle someone truly wishes to own someday.",
+
+  "what is supercar": "🔥 A supercar is a high-performance luxury sports car with extreme speed.",
+
+  "what is hypercar": "🚀 A hypercar is an ultra-advanced supercar with extraordinary performance.",
+
+  "what makes car beautiful": "💎 Design, comfort, speed, and style make a car beautiful.",
+
+  "what is driving": "🛣️ Driving means controlling and operating a vehicle safely.",
+
+  "what is racing": "🏁 Racing is a competitive sport where vehicles compete for speed and victory.",
   "can you code": "Yes 💻 I can help with coding and debugging.",
 
   "which language is best": "It depends on your goals 😄 JavaScript is great for web development.",
