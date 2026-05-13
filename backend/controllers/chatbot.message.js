@@ -491,8 +491,7 @@ export const Message=async(req,res)=>{
 
   "stay safe": "🛡️ Stay safe and take care of yourself.",
 
-  "have a beautiful day": "🌸 Wishing you a day full of smiles and positivity."
-}
+  "have a beautiful day": "🌸 Wishing you a day full of smiles and positivity.",
   "what is water": "💧 Water is essential for life and keeps us healthy and hydrated.",
 
   "what is food": "🍲 Food gives our body energy and nutrition.",
