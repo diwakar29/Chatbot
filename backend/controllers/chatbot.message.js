@@ -357,6 +357,234 @@ export const Message=async(req,res)=>{
 
   "which car is best": "✨ The best car depends on comfort, budget, mileage, and personal preference.",
 
+  "happy diwali": "🪔 Happy Diwali! May your life shine with happiness, success, and positivity.",
+
+  "happy holi": "🌈 Happy Holi! Wishing you colorful moments and endless joy.",
+
+  "eid mubarak": "🌙 Eid Mubarak! May peace, love, and blessings always stay with you.",
+
+  "merry christmas": "🎄 Merry Christmas! May your holidays be filled with happiness and love.",
+
+  "happy new year": "🎆 Happy New Year! Wishing you success, health, and happiness.",
+
+  "happy navratri": "💃 Happy Navratri! May Maa Durga bless you with strength and positivity.",
+
+  "happy dussehra": "🏹 Happy Dussehra! May good always defeat evil in your life.",
+
+  "happy raksha bandhan": "🎁 Happy Raksha Bandhan! Celebrating the beautiful bond of siblings.",
+
+  "happy janmashtami": "🦚 Happy Janmashtami! May Lord Krishna bring happiness and peace.",
+
+  "happy ganesh chaturthi": "🐘 Happy Ganesh Chaturthi! May Lord Ganesha remove all obstacles from your life.",
+
+  "happy makar sankranti": "🪁 Happy Makar Sankranti! Wishing you joy, success, and sweet moments.",
+
+  "happy pongal": "🌾 Happy Pongal! May your life be filled with prosperity and happiness.",
+
+  "happy onam": "🌸 Happy Onam! Wishing you peace, prosperity, and joy.",
+
+  "happy lohri": "🔥 Happy Lohri! May your life shine with warmth and happiness.",
+
+  "happy baisakhi": "🌾 Happy Baisakhi! Wishing you success and prosperity.",
+
+  "happy karwa chauth": "🌙 Happy Karwa Chauth! May love and togetherness always stay strong.",
+
+  "happy republic day": "🇮🇳 Happy Republic Day! Proud to celebrate our nation’s unity and strength.",
+
+  "happy independence day": "🎆 Happy Independence Day! Celebrating freedom and patriotism.",
+
+  "happy teacher's day": "📚 Happy Teacher’s Day! Thank you for spreading knowledge and inspiration.",
+
+  "happy children's day": "🎈 Happy Children’s Day! Keep smiling, learning, and shining.",
+
+  "happy mother's day": "💖 Happy Mother’s Day! Thank you for endless love and care.",
+
+  "happy father's day": "👔 Happy Father’s Day! Thank you for strength, guidance, and support.",
+
+  "happy valentine's day": "❤️ Happy Valentine’s Day! Wishing you love and happiness.",
+
+  "happy friendship day": "🤝 Happy Friendship Day! True friends make life beautiful.",
+
+  "happy women's day": "🌸 Happy Women’s Day! Celebrating strength, kindness, and inspiration.",
+
+  "happy halloween": "🎃 Happy Halloween! Enjoy spooky fun and sweet treats.",
+
+  "happy thanksgiving": "🦃 Happy Thanksgiving! Be grateful and enjoy precious moments with loved ones.",
+
+  "happy ram navami": "🏹 Happy Ram Navami! May Lord Ram bless you with peace and strength.",
+
+  "happy mahashivratri": "🕉️ Happy Mahashivratri! May Lord Shiva bless you with positivity and wisdom.",
+
+  "good morning": "🌅 Good Morning! Wishing you a beautiful and successful day ahead.",
+
+  "good afternoon": "☀️ Good Afternoon! Hope your day is going great.",
+
+  "good evening": "🌆 Good Evening! Relax and enjoy your time.",
+
+  "good night": "🌙 Good Night! Sleep peacefully and sweet dreams.",
+
+  "have a nice day": "😊 Thank you! I hope your day is amazing too.",
+
+  "sweet dreams": "✨ Sweet Dreams! May your night be peaceful and relaxing.",
+
+  "welcome": "🤝 You are always welcome!",
+
+  "see you later": "👋 See you later! Take care.",
+
+  "take care": "💖 You too! Stay safe and happy.",
+
+  "how was your day": "😄 My day was great because I got to chat with you!",
+
+  "have a good night": "🌌 Have a peaceful and relaxing night.",
+
+  "goodbye": "👋 Goodbye! Hope to see you again soon.",
+
+  "see you soon": "😊 Sure! I’ll be here whenever you need me.",
+
+  "nice to meet you": "🤝 Nice to meet you too!",
+
+  "have a safe journey": "✈️ Safe travels and enjoy your journey!",
+
+  "good luck": "🍀 Good Luck! You’ve got this.",
+
+  "congratulations": "🎉 Congratulations! Wishing you more success ahead.",
+
+  "happy birthday": "🎂 Happy Birthday! May your day be filled with joy and happiness.",
+
+  "happy anniversary": "💖 Happy Anniversary! Wishing you love and happiness forever.",
+
+  "happy new year": "🎆 Happy New Year! May this year bring success and positivity.",
+
+  "merry christmas": "🎄 Merry Christmas! Enjoy the festive season.",
+
+  "happy diwali": "🪔 Happy Diwali! Wishing you light, happiness, and prosperity.",
+
+  "eid mubarak": "🌙 Eid Mubarak! May your life be filled with peace and joy.",
+
+  "happy holi": "🌈 Happy Holi! Enjoy colors, happiness, and fun.",
+
+  "good to see you": "😊 It’s always nice to see you too!",
+
+  "miss you": "💙 I’m always here whenever you want to chat.",
+
+  "welcome back": "🎉 Welcome back! I’m happy to see you again.",
+
+  "stay positive": "✨ Keep smiling and stay positive no matter what.",
+
+  "have fun": "😄 Enjoy and make beautiful memories!",
+
+  "all the best": "🌟 All the best for your success and happiness.",
+
+  "good job": "👏 Great job! Keep up the amazing work.",
+
+  "well done": "🎉 Well done! You did an awesome job.",
+
+  "rest well": "😌 Take some rest and recharge yourself.",
+
+  "enjoy your day": "☀️ Enjoy every moment of your day!",
+
+  "happy weekend": "🎈 Happy Weekend! Relax and enjoy your time.",
+
+  "good vibes": "🌈 Sending positive vibes your way!",
+
+  "be happy": "😊 Happiness looks good on you.",
+
+  "stay safe": "🛡️ Stay safe and take care of yourself.",
+
+  "have a beautiful day": "🌸 Wishing you a day full of smiles and positivity."
+}
+  "what is water": "💧 Water is essential for life and keeps us healthy and hydrated.",
+
+  "what is food": "🍲 Food gives our body energy and nutrition.",
+
+  "what is sleep": "😴 Sleep helps the body and mind recover and stay healthy.",
+
+  "what is mobile": "📱 A mobile phone helps people communicate and access information.",
+
+  "what is internet": "🌐 The internet connects people and information across the world.",
+
+  "what is money": "💰 Money is used to buy things and fulfill daily needs.",
+
+  "what is family": "👨‍👩‍👧‍👦 Family is a group of people who care and support each other.",
+
+  "what is home": "🏠 Home is a place where people feel safe and comfortable.",
+
+  "what is school": "🏫 School is a place where people learn and gain knowledge.",
+
+  "what is teacher": "📚 A teacher helps students learn and grow.",
+
+  "what is student": "✏️ A student is someone who learns new skills and knowledge.",
+
+  "what is job": "💼 A job is work people do to earn money and build their future.",
+
+  "what is office": "🏢 An office is a place where people work professionally.",
+
+  "what is market": "🛒 A market is a place where people buy and sell products.",
+
+  "what is hospital": "🏥 A hospital is a place where people receive medical treatment.",
+
+  "what is doctor": "🩺 A doctor helps people stay healthy and treats illnesses.",
+
+  "what is exercise": "🏋️ Exercise keeps the body fit, strong, and healthy.",
+
+  "what is breakfast": "🍳 Breakfast is the first meal of the day and gives energy.",
+
+  "what is lunch": "🍛 Lunch is an important meal usually eaten in the afternoon.",
+
+  "what is dinner": "🍽️ Dinner is the evening meal shared with family or friends.",
+
+  "what is friendship": "🤝 Friendship means trust, support, and caring for each other.",
+
+  "what is happiness": "😊 Happiness is a feeling of joy, peace, and satisfaction.",
+
+  "what is stress": "😓 Stress is mental pressure caused by challenges or worries.",
+
+  "what is success": "🌟 Success means achieving goals through effort and dedication.",
+
+  "what is failure": "💡 Failure is a lesson that helps people improve and grow.",
+
+  "what is study": "📖 Study helps people gain knowledge and improve skills.",
+
+  "what is love": "❤️ Love is care, trust, and deep affection for someone.",
+
+  "what is respect": "🙏 Respect means treating others with kindness and value.",
+
+  "what is time": "⏰ Time is precious and should be used wisely.",
+
+  "what is morning": "🌅 Morning is the start of a new day full of opportunities.",
+
+  "what is night": "🌙 Night is a time to relax and rest.",
+
+  "what is music": "🎵 Music is a beautiful form of entertainment and emotion.",
+
+  "what is television": "📺 Television provides entertainment, news, and information.",
+
+  "what is computer": "💻 A computer is an electronic device used for work, study, and entertainment.",
+
+  "what is shopping": "🛍️ Shopping means buying things people need or enjoy.",
+
+  "what is travel": "✈️ Travel helps people explore new places and experiences.",
+
+  "what is weather": "☁️ Weather describes daily conditions like rain, sun, or wind.",
+
+  "what is rain": "🌧️ Rain provides water and refreshes nature.",
+
+  "what is sunlight": "☀️ Sunlight gives light, warmth, and energy to Earth.",
+
+  "what is tree": "🌳 Trees give oxygen, shade, and beauty to nature.",
+
+  "what is pet": "🐶 A pet is an animal kept for companionship and love.",
+
+  "what is dog": "🐕 A dog is a loyal and friendly animal.",
+
+  "what is cat": "🐈 A cat is a cute and independent pet animal.",
+
+  "what is smile": "😊 A smile spreads positivity and happiness.",
+
+  "what is dream": "✨ Dreams inspire people to achieve great things in life.",
+
+  "what is life": "🌍 Life is a journey of learning, experiences, and growth.",
+
   "which bike is best": "🏍️ The best bike depends on speed, mileage, style, and performance.",
 
   "what is electric car": "⚡ An electric car runs on batteries instead of fuel and helps reduce pollution.",
