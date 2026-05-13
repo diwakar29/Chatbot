@@ -16,6 +16,7 @@ function Bot() {
         setLoading(true);
         if(!input.trim()) return;
         try {
+          
            const res=await axios.post( "https://chatbot-mnnq.onrender.com/bot/v1/message",{
                 text: input
             })

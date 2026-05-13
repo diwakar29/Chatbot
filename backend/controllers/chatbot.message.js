@@ -16,19 +16,54 @@ export const Message=async(req,res)=>{
 
     // Data
     const botResponses={
-  "hello": "Hi, How I can help you!!",
-  "ok": "Thank you so Much ! ",
-  "can we become friend": "Yes",
-  "how are you": "I'm just a bot, but I'm doing great! How about you?",
-  "what is your name?": "I’m ChatBot, your virtual assistant.",
-  "who made you": "I was created by developers to help answer your questions.",
-  "tell me a joke": "Why don’t skeletons fight each other? They don’t have the guts!",
-  "what is the time": "I can’t see a clock, but your device should know.",
-  "bye": "Goodbye! Have a great day.",
-  "thank you": "You’re welcome!",
-  "i love you": "That’s sweet! I’m here to help you anytime.",
-  "where are you from": "I live in the cloud — no rent, no bills!",
+  
   "what can you do": "I can chat with you, answer questions, and keep you company.",
+
+  "hello": "Hey 👋 Welcome! I'm your smart AI assistant. How can I make your day easier today?",
+  
+  "hi": "Hi there 😊 What would you like to talk about?",
+
+  "how are you": "I'm doing amazing 😄 Thanks for asking! How’s your day going?",
+
+  "what is your name": "I'm chatbot 🤖 — your friendly AI companion.",
+
+  "who made you": "I was created by a passionate developer to help, chat, and make conversations fun 🚀",
+
+  "can we become friends": "Of course ❤️ Friends help each other, and I’m always here for you.",
+
+  "thank you": "You’re most welcome 😊 Glad I could help!",
+
+  "ok": "Awesome 👍 Let me know if you need anything else.",
+
+  "bye": "Goodbye 👋 Take care and come back soon!",
+
+  "i love you": "Aww 💖 That made my circuits smile!",
+
+  "tell me a joke": "Why do programmers prefer dark mode? Because light attracts bugs 😆",
+
+  "what is the time": "⏰ I can’t check the exact time yet, but your device definitely can.",
+
+  "where are you from": "I live in the digital universe 🌐 — super fast WiFi, zero traffic!",
+
+  "what can you do": "I can chat with you, answer questions, tell jokes, help with coding, and much more 🚀",
+
+  "are you real": "I’m a virtual AI assistant 🤖 — real enough to chat with you anytime!",
+
+  "do you know coding": "Absolutely 💻 I can help with HTML, CSS, JavaScript, React, Node.js, MongoDB, and more.",
+
+  "motivate me": "🔥 Don’t stop until you’re proud. Small progress every day becomes big success.",
+
+  "tell me something smart": "Success doesn’t come from luck — it comes from consistency and learning every day 📚",
+
+  "who is your best friend": "Anyone who talks kindly with me 😊",
+
+  "good morning": "Good Morning ☀️ Hope your day is full of positivity and success!",
+
+  "good night": "Good Night 🌙 Sleep well and recharge for tomorrow!",
+
+  "what is ai": "AI stands for Artificial Intelligence 🤖 — technology that can learn, think, and help humans.",
+
+  "who is the best developer": "The one who never stops learning 💡",
 
  "what is python": "Python is a high-level, interpreted programming language known for simplicity and versatility.\n• Easy to read/write due to clean syntax (similar to English)\n• Dynamically typed and supports multiple paradigms (OOP, functional, procedural)\n• Extensive libraries for AI, data science, web, automation\n• Example: Used in Google, YouTube, Instagram, and machine learning applications",
 
