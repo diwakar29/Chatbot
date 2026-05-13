@@ -493,6 +493,7 @@ export const Message=async(req,res)=>{
 
   "have a beautiful day": "🌸 Wishing you a day full of smiles and positivity.",
   
+  "who won yesterday match": "🏆 Yesterday’s match was full of excitement, thrilling moments, and amazing performances!",
   "what is today's date": "📅 Today is a beautiful new day full of opportunities.",
 
   "what is the date today": "🗓️ Today’s date marks another chance to learn and grow.",
