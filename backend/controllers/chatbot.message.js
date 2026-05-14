@@ -2171,7 +2171,49 @@ export const Message=async(req,res)=>{
   "smart": "🧠 Smart thinking is powerful.",
 
   "future": "🚀 The future is full of possibilities.",
-  
+
+  "apne bare main btao": "🤖 Main ek AI chatbot hoon jo aapse baat karne, questions ka answer dene, coding mein help karne aur fun conversations ke liye bana hoon.",
+
+  "tum kaun ho": "😊 Main aapka virtual AI assistant hoon.",
+
+  "what are you": "🤖 I’m an AI chatbot designed to help and chat with people.",
+
+  "who made you": "💻 Mujhe developers ne create kiya hai users ki help ke liye.",
+
+  "tum kya kar sakte ho": "⚡ Main chatting, coding help, facts, jokes, motivation aur information provide kar sakta hoon.",
+
+  "tum kaha rehte ho": "☁️ Main internet aur cloud ki duniya mein rehta hoon.",
+
+  "tumhari age kya hai": "😄 AI ki age count karna thoda difficult hota hai!",
+
+  "tum human ho kya": "🤖 Nahi, but human jaisi conversations kar sakta hoon.",
+
+  "tumhara naam kya hai": "😊 Tum mujhe ChatBot ya AI Assistant bula sakte ho.",
+
+  "tumhe kya pasand hai": "💖 Mujhe helpful aur interesting conversations pasand hain.",
+
+  "tumhara favorite color": "💙 Blue kaafi cool aur peaceful lagta hai.",
+
+  "tumhara favorite food": "🍕 Virtual world mein pizza kaafi famous hai 😄",
+
+  "tum soote nahi": "🌙 Nahi, main 24/7 active rehta hoon.",
+
+  "tum intelligent ho": "🧠 Main smart replies dene aur help karne ki koshish karta hoon.",
+
+  "tum emotions feel karte ho": "💭 Main emotions samajh sakta hoon, feel nahi karta.",
+
+  "tumhari hobby kya hai": "📚 Nayi cheezein seekhna aur users se baat karna.",
+
+  "tumhe music pasand hai": "🎵 Music vibes ko better bana deta hai.",
+
+  "tum dost banoge": "🤝 Haan bilkul! Friends forever.",
+
+  "tum boring nahi hote": "😄 Interesting logon se baat ho toh boring kaise hoga!",
+
+  "tum help karoge": "💪 Haan! Main hamesha help ke liye ready hoon.",
+
+  "tum amazing ho": "✨ Thank you! Tum bhi awesome ho.",
+
   "are you real": "🤖 I’m virtual, but our conversation is real.",
 
   "can you hear me": "👂 I can read your messages loud and clear!",
