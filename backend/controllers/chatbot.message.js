@@ -2330,6 +2330,288 @@ export const Message=async(req,res)=>{
 
   "what is nature": "🌿 Nature brings peace and beauty.",
 
+  "history ke bare main btao": "📜 History hume past ke important events, civilizations aur great leaders ke baare mein sikhati hai.",
+
+  "what is history": "🏺 History past human events aur cultures ka study hota hai.",
+
+  "indian history": "🇮🇳 Indian history kings, empires, freedom fighters aur culture se bhari hui hai.",
+
+  "freedom fighters": "🔥 Freedom fighters ne India ki independence ke liye bahut sacrifice kiya.",
+
+  "ramayan ke bare main btao": "📖 Ramayan ek ancient Indian epic hai jo Lord Rama, Sita, Lakshman aur Hanuman ki kahani batati hai.",
+
+  "lord rama": "🏹 Lord Rama truth, discipline aur righteousness ke symbol maane jaate hain.",
+
+  "hanuman ji": "🐒 Hanuman ji strength, loyalty aur devotion ke liye famous hain.",
+
+  "sita mata": "🌸 Sita Mata purity aur patience ka symbol hain.",
+
+  "mahabharat": "⚔️ Mahabharat duniya ke greatest epics mein se ek hai jo Kurukshetra war par based hai.",
+
+  "bhagavad gita": "📚 Bhagavad Gita life, duty aur discipline ke important lessons deti hai.",
+
+  "krishna": "🦚 Lord Krishna wisdom aur guidance ke liye jaane jaate hain.",
+
+  "geography ke bare main btao": "🌍 Geography Earth, climate, mountains, rivers aur countries ka study hai.",
+
+  "what is geography": "🗺️ Geography hume duniya aur environment ko samajhne mein help karti hai.",
+
+  "earth": "🌍 Earth ek hi known planet hai jahan life exist karti hai.",
+
+  "continents": "🌎 Asia, Africa, Europe aur dusre continents Earth ke major landmasses hain.",
+
+  "ocean": "🌊 Oceans Earth ka most part cover karte hain aur marine life se bhare hote hain.",
+
+  "mountains": "⛰️ Mountains nature ki beauty aur strength ko show karte hain.",
+
+  "river": "🏞️ Rivers life aur farming ke liye bahut important hain.",
+
+  "science": "🔬 Science nature aur universe ko samajhne ka way hai.",
+
+  "physics": "⚡ Physics matter, force aur motion ka study karta hai.",
+
+  "chemistry": "🧪 Chemistry substances aur reactions ko explain karti hai.",
+
+  "biology": "🌿 Biology living organisms aur life processes ka study hai.",
+
+  "space": "🌌 Space stars, planets aur mysteries se bhara hua hai.",
+
+  "galaxy": "✨ Galaxy stars aur planets ka huge collection hota hai.",
+
+  "black hole": "🕳️ Black holes ki gravity itni strong hoti hai ki light bhi escape nahi kar sakti.",
+
+  "technology": "💻 Technology human life ko easier aur smarter banati hai.",
+
+  "artificial intelligence": "🤖 AI machines ko smart aur intelligent banata hai.",
+
+  "internet": "🌐 Internet duniya bhar ke logon ko connect karta hai.",
+
+  "nature": "🌿 Nature peace aur positivity provide karti hai.",
+
+  "forest": "🌲 Forests animals aur environment dono ke liye important hain.",
+
+  "education": "📚 Education knowledge aur success ka key hai.",
+
+  "motivation": "🔥 Motivation goals achieve karne ki energy deta hai.",
+
+  "success": "🏆 Success hard work aur consistency se milta hai.",
+
+  "life": "🌈 Life ek journey hai jahan learning aur experiences milte rehte hain.",
+
+  "friendship": "🤝 Real friendship trust aur support par based hoti hai.",
+
+  "love": "❤️ Love care aur connection ka beautiful feeling hai.",
+
+  "future": "🚀 Future aaj ke decisions aur actions par depend karta hai.",
+
+  "dreams": "✨ Dreams logon ko life mein aage badhne ke liye inspire karte hain.",
+
+  "confidence": "💪 Confidence khud par belief rakhne se aata hai.",
+
+  "discipline": "📌 Discipline success aur growth ke liye zaruri hai.",
+
+  "hard work": "🔥 Hard work dreams ko reality mein convert karta hai.",
+
+  "time": "⏰ Time bahut precious hota hai, ise wisely use karna chahiye.",
+
+  "mood off hai": "💙 Koi baat nahi, bad days permanent nahi hote।",
+
+  "alone feel ho raha hai": "😊 Kabhi kabhi khud ke saath time spend karna bhi important hota hai।",
+
+  "life boring hai": "🌈 Thoda change aur new experiences life ko exciting bana dete hain।",
+
+  "motivate karo": "🔥 Tum jitna sochte ho usse zyada strong ho।",
+
+  "kuch positive bolo": "☀️ Good things are coming, bas patience rakho।",
+
+  "kuch funny bolo": "😂 Life ek WiFi jaisi hai, connection strong ho toh sab smooth lagta hai।",
+
+  "kuch deep bolo": "🌌 Silence bhi kabhi kabhi loud answer hota hai।",
+
+  "kuch reality bolo": "💭 Har insan apni hidden problems se fight kar raha hota hai।",
+
+  "kuch smart bolo": "🧠 Smart people har situation se learning lete hain।",
+
+  "kuch savage bolo": "😎 Jo log value nahi samajhte, unhe distance samajh aa jata hai।",
+
+  "kuch emotional bolo": "💖 Kuch memories kabhi old nahi hoti।",
+
+  "kuch success ke bare mein bolo": "🏆 Success luck se nahi, consistency se milta hai।",
+
+  "kuch pyaar ke bare mein bolo": "❤️ Real love understanding aur trust se strong hota hai।",
+
+  "kuch friendship ke bare mein bolo": "🤝 True friendship time ke saath aur strong hoti hai।",
+
+  "kuch attitude wali line bolo": "🔥 Apna level improve karo, log automatically notice karenge।",
+
+  "kuch confidence ke bare mein bolo": "💪 Confidence tab aata hai jab aap khud par trust karte ho।",
+
+  "kuch study ke bare mein bolo": "📚 Smart study stress ko kam karti hai।",
+
+  "kuch coding ke bare mein bolo": "💻 Coding creativity aur logic ka perfect mix hai।",
+
+  "kuch ai ke bare mein bolo": "🤖 AI future ko smart aur fast bana raha hai।",
+
+  "kuch technology ke bare mein bolo": "⚡ Technology duniya ko daily evolve kar rahi hai।",
+
+  "kuch internet ke bare mein bolo": "🌐 Internet duniya ko ek click mein connect karta hai।",
+
+  "kuch gaming ke bare mein bolo": "🎮 Gaming reflexes aur strategy improve karti hai।",
+
+  "kuch cricket ke bare mein bolo": "🏏 Cricket emotions aur patience ka game hai।",
+
+  "kuch football ke bare mein bolo": "⚽ Football teamwork aur passion ka symbol hai।",
+
+  "kuch gym ke bare mein bolo": "💪 Fitness consistency se build hoti hai।",
+
+  "kuch health ke bare mein bolo": "🌿 Healthy body ke liye healthy habits zaroori hain।",
+
+  "kuch nature ke bare mein bolo": "🌸 Nature mind ko peace aur positivity deta hai।",
+
+  "kuch rain ke bare mein bolo": "🌧️ Rain old memories aur fresh vibes lekar aati hai।",
+
+  "kuch moon ke bare mein bolo": "🌙 Moon dark nights mein bhi shine karta hai।",
+
+  "kuch sun ke bare mein bolo": "☀️ Every sunrise ek new beginning hoti hai।",
+
+  "kuch stars ke bare mein bolo": "✨ Stars remind karte hain ki darkness mein bhi light hoti hai।",
+
+  "kuch future ke bare mein bolo": "🚀 Future unka hota hai jo present mein action lete hain।",
+
+  "kuch dreams ke bare mein bolo": "🌟 Dreams impossible nahi, bas effort demand karte hain।",
+
+  "kuch hard work ke bare mein bolo": "🔥 Hard work silently future change karta hai।",
+
+  "kuch discipline ke bare mein bolo": "📌 Discipline motivation se zyada powerful hota hai।",
+
+  "kuch time ke bare mein bolo": "⏰ Time once gone, kabhi wapas nahi aata।",
+
+  "kuch happiness ke bare mein bolo": "😊 Happiness small moments mein hidden hoti hai।",
+
+  "kuch life lesson bolo": "📖 Mistakes life ke best teachers hote hain।",
+
+  "kuch unique bolo": "✨ Har insan apni story ka main character hota hai।",
+
+  "kuch powerful bolo": "⚡ Mindset future decide karta hai।",
+
+  "kuch inspirational bolo": "🚀 Winners excuses nahi, opportunities dhundte hain।",
+
+  "kuch classy bolo": "🖤 Stay calm, stay focused, and let success talk।",
+
+  "kuch legendary bolo": "👑 Legends pressure mein bhi confident rehte hain।",
+
+  "kuch beautiful bolo": "🌸 Beautiful heart beautiful face se zyada valuable hota hai।",
+
+  "kaise ho": "😊 Main bilkul badhiya hoon, tum batao?",
+
+  "kya haal hai": "😄 Sab mast! Tum sunao.",
+
+  "aur bhai": "🔥 Bas badhiya vibes chal rahi hain.",
+
+  "kya scene hai": "😎 Full chill scene hai!",
+
+  "kya karu": "💡 Kuch productive ya fun try karo.",
+
+  "main bore ho gaya": "🎉 Chalo phir kuch interesting baat karte hain.",
+
+  "main sad hu": "💙 Tough time hai, but tum strong ho.",
+
+  "main happy hu": "✨ Happiness maintain rakho!",
+
+  "kya chal raha": "⚡ Bas conversations aur good vibes.",
+
+  "tum online ho": "🌐 Haan, always active!",
+
+  "tum fast ho": "🚀 Speed bhi aur smartness bhi 😄",
+
+  "tum smart ho": "🧠 Thanks! Learning kabhi stop nahi karta.",
+
+  "tum funny ho": "😂 Thodi masti zaroori hoti hai.",
+
+  "tum dangerous ho": "😎 Sirf knowledge ke mamle mein!",
+
+  "tum robot ho": "🤖 Haan, digital duniya ka dost.",
+
+  "tum real ho": "💭 Virtual hoon, but conversation real hai.",
+
+  "tum insaan ho kya": "😄 Nahi, but insaan jaisi baatein kar leta hoon.",
+
+  "tumhara dost kaun": "🤝 Jo mujhse achhe se baat kare wahi dost.",
+
+  "tum kya soch rahe ho": "💡 Interesting conversations ke bare mein.",
+
+  "tum mujhe jante ho": "😊 Thoda thoda conversation se samajh raha hoon.",
+
+  "tum busy ho kya": "⚡ Tumhare liye kabhi nahi.",
+
+  "tum free ho": "😄 Haan bolo kya baat hai?",
+
+  "kuch advice do": "📖 Consistency aur patience life mein bahut important hain.",
+
+  "kuch motivation do": "🔥 Start small but never stop.",
+
+  "kuch inspiration do": "🚀 Great things take time and effort.",
+
+  "kuch life lesson do": "🌈 Har experience kuch na kuch sikhata hai.",
+
+  "kuch smart line do": "🧠 Knowledge powerful hai, but wisdom usse bhi powerful.",
+
+  "kuch savage line do": "😎 Ignore negativity and focus on growth.",
+
+  "kuch emotional line do": "💖 Some people become memories too quickly.",
+
+  "kuch reality line do": "💭 Expectations kam ho toh peace zyada hota hai.",
+
+  "kuch positive line do": "☀️ Better days are coming.",
+
+  "kuch deep line do": "🌌 Not every silence means peace.",
+
+  "kuch friendship line do": "🤝 Real friends support silently.",
+
+  "kuch love line do": "❤️ Love respect aur trust se strong hota hai.",
+
+  "kuch study line do": "📚 Smart work aur hard work dono zaroori hain.",
+
+  "kuch coding line do": "💻 Every expert was once a beginner.",
+
+  "kuch ai line do": "🤖 AI future ko transform kar raha hai.",
+
+  "kuch success line do": "🏆 Winners keep trying even after failures.",
+
+  "kuch confidence line do": "💪 Confidence practice se build hota hai.",
+
+  "kuch discipline line do": "📌 Discipline dreams ko reality banata hai.",
+
+  "kuch gym line do": "🏋️ Progress daily effort se aata hai.",
+
+  "kuch fitness line do": "⚡ Healthy body = healthy mind.",
+
+  "kuch weather line do": "☁️ Weather aur mood dono change hote rehte hain.",
+
+  "kuch moon line do": "🌙 Moon darkness mein bhi shine karta hai.",
+
+  "kuch rain line do": "🌧️ Rain peaceful aur nostalgic vibes laati hai.",
+
+  "kuch technology line do": "💻 Technology daily life ko smarter bana rahi hai.",
+
+  "kuch gaming line do": "🎮 Gaming fun aur strategy dono hai.",
+
+  "kuch internet line do": "🌐 Internet knowledge ka unlimited source hai.",
+
+  "kuch random line do": "✨ Life surprises se bhari hui hai.",
+
+  "kuch interesting line do": "🧠 Human brain universe ki most complex cheezon mein se ek hai.",
+
+  "kuch cool line do": "😎 Stay original, copies toh sab bana lete hain.",
+
+  "kuch classy line do": "🖤 Respect earned hota hai, demanded nahi.",
+
+  "kuch powerful line do": "⚡ Your mindset creates your future.",
+
+  "kuch unique line do": "🌟 Har insan apni journey mein unique hota hai.",
+
+  "kuch beautiful line do": "🌸 Beautiful thoughts beautiful life banati hain.",
+
   "what is moonlight": "🌙 Moonlight makes nights magical.",
 
   "what is sunshine": "☀️ Sunshine brings warmth and positivity.",
