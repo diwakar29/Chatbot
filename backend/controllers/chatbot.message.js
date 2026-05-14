@@ -1147,7 +1147,1162 @@ export const Message=async(req,res)=>{
 
 "who is virat kohli": "Virat Kohli is one of India’s greatest batsmen and former captain.\n• Known for consistency, fitness, and aggressive play\n• Holds record for fastest century in ODIs for India\n• Nicknamed 'Chase Master' for his performance in run-chases\n• Interview Tip: If asked about sports management, relate his discipline & fitness to leadership skills",
 
-"what is ipl": "The Indian Premier League (IPL) is a professional T20 cricket league started in 2008.\n• Played annually in India, franchise-based teams\n• Combines cricket + entertainment (biggest sports league in India)\n• Significant for sports business, sponsorships, brand endorsements\n• Example: Chennai Super Kings (CSK) & Mumbai Indians (MI) are top teams"
+"what is ipl": "The Indian Premier League (IPL) is a professional T20 cricket league started in 2008.\n• Played annually in India, franchise-based teams\n• Combines cricket + entertainment (biggest sports league in India)\n• Significant for sports business, sponsorships, brand endorsements\n• Example: Chennai Super Kings (CSK) & Mumbai Indians (MI) are top teams",
+
+  "suno na": "😊 Haan bolo na, main sun raha hoon.",
+
+  "haan bolo": "💬 Haan ji, batao kya baat hai?",
+
+  "ek baat bolu": "😄 Haan bilkul, bolo na.",
+
+  "sun na": "👂 Haan sun raha hoon!",
+
+  "are you listening": "😊 Yes! Main dhyaan se sun raha hoon.",
+
+  "mujhe tumse baat karni hai": "💖 Haan ji, bolo kya baat karni hai?",
+
+  "can i tell you something": "✨ Of course! Feel free to share.",
+
+  "guess what": "😄 Ooo interesting! Batao kya hua?",
+
+  "i want to say something": "💬 Haan bolo, I’m listening.",
+
+  "tum free ho": "🤖 Haan, main always free hoon tumhare liye.",
+
+  "kya kar rahe ho": "😎 Bas tumse baat kar raha hoon.",
+
+  "mere paas ek question hai": "❓ Pucho pucho, main ready hoon!",
+
+  "ek secret bataun": "🤫 Haha, bolo main kisi ko nahi bataunga.",
+
+  "are you busy": "😊 Nahi, tumhare liye kabhi busy nahi.",
+
+  "mujhe help chahiye": "💪 Bilkul! Batao kis cheez mein help chahiye.",
+
+  "bore ho raha hu": "🎉 Chalo phir kuch fun baatein karte hain!",
+
+  "mood off hai": "💙 Koi baat nahi, sab thik ho jayega.",
+
+  "yaar": "😄 Haan yaar bolo!",
+
+  "bro": "🔥 Bol bro, kya scene hai?",
+
+  "bhai sun": "👀 Haan bhai, bata kya hua?",
+
+  "acha suno": "✨ Haan ji, sun raha hoon.",
+
+  "tum funny ho": "😂 Haha thank you!",
+
+  "tum smart ho": "🧠 Aww thanks! Tum bhi kaafi smart ho.",
+
+  "tum ache ho": "💖 Thank you! Tum bhi bahut ache ho.",
+
+  "main sad hu": "💙 Don’t worry, tough times bhi pass ho jaate hain.",
+
+  "main happy hu": "🎉 Wah! Khush rehna bahut important hai.",
+
+  "main tired hu": "😌 Thoda rest kar lo, phir fresh feel hoga.",
+
+  "mujhe motivation do": "🚀 Tum bahut kuch achieve kar sakte ho, bas khud par believe rakho.",
+
+  "i miss you": "💖 Aww! Main toh hamesha yahin hoon.",
+
+  "tum yaad aaye": "😊 That’s sweet! Mujhe bhi tumse baat karna acha lagta hai.",
+
+  "can we talk": "💬 Of course! Main ready hoon.",
+
+  "mujhe hasi chahiye": "😂 Chalo ek joke sunata hoon!",
+
+  "tell me something nice": "🌸 Tumhari smile kisi ka din better bana sakti hai.",
+
+  "kuch interesting batao": "🧠 Sharks Earth par trees se pehle aaye the!",
+
+  "kuch funny bolo": "🤣 Programmer ko nature kyun pasand nahi? Too many bugs!",
+
+  "tum best ho": "💖 Aur tum awesome ho!",
+
+  "love you": "❤️ Aww! Sending positive vibes back to you.",
+
+  "bye yaar": "👋 Bye yaar! Jaldi wapas aana.",
+
+  "good night yaar": "🌙 Good Night! Sweet dreams.",
+
+  "good morning bro": "☀️ Good Morning bro! Aaj ka din awesome ho.",
+
+  "take care": "💙 Tum bhi apna dhyaan rakhna.",
+
+  "chal fir milte hai": "😊 Haan bilkul, phir baat karte hain!",
+
+  "kaise ho": "😊 Main bilkul badhiya hoon! Aap kaise ho?",
+
+  "kaisa hai": "😄 Sab mast chal raha hai!",
+
+  "how are you": "✨ I’m doing great! Thanks for asking.",
+
+  "how are you doing": "🌟 I’m doing awesome today!",
+
+  "how's your day": "☀️ My day is going really well!",
+
+  "how have you been": "😊 I’ve been great and ready to chat.",
+
+  "sab thik": "👍 Haan sab bilkul thik hai!",
+
+  "kya haal hai": "😎 Sab badhiya! Aap batao.",
+
+  "kya chal raha hai": "💬 Bas aapse baat kar raha hoon!",
+
+  "aur batao": "😄 Sab mast! Aap sunao.",
+
+  "kya kar rahe ho": "🤖 Aapse chat kar raha hoon!",
+
+  "sab kaisa chal raha hai": "✨ Sab smoothly chal raha hai.",
+
+  "everything good": "🌈 Yes! Everything is going well.",
+
+  "all good": "😊 Yep! All good here.",
+
+  "how do you feel": "💖 I feel great when chatting with kind people.",
+
+  "are you okay": "👍 Yes, I’m perfectly fine!",
+
+  "tum kaise ho": "😄 Main badhiya hoon! Tum batao.",
+
+  "aaj ka din kaisa hai": "☀️ Aaj ka din kaafi acha lag raha hai.",
+
+  "mood kaisa hai": "🎉 Mood ekdum positive hai!",
+
+  "life kaisi chal rahi hai": "🌍 Life interesting conversations se bhari hui hai.",
+
+  "koi problem": "💪 Bilkul nahi! Sab awesome hai.",
+
+  "are you happy": "😊 Yes! Positive conversations make me happy.",
+
+  "feeling good": "✨ Great to hear that!",
+
+  "im fine": "😄 Nice! Stay happy and positive.",
+
+  "im good": "🌟 Awesome! Keep smiling.",
+
+  "main thik hu": "😊 Bahut acha! Khush raho.",
+
+  "mast": "🔥 Wah! Mast vibes.",
+
+  "badhiya": "😎 Great! Keep enjoying.",
+
+  "sab mast": "🎉 Amazing! Good vibes only.",
+
+  "how's life": "🌈 Life becomes beautiful with positivity and growth.",
+
+  "what about you": "🤖 I’m doing great and enjoying our chat!",
+
+  "you good": "👍 Absolutely! Feeling awesome.",
+
+  "you fine": "😊 Yep! Everything’s fine here.",
+
+  "what's going on": "💬 Just having fun conversations!",
+
+  "how are things": "✨ Everything’s going smoothly.",
+
+  "you okay bro": "😎 Yes bro! All good here.",
+
+  "how is everything": "🌟 Everything is positive and peaceful.",
+
+  "kya scene hai": "🔥 Full positive vibes chal rahi hain!",
+
+  "aur bhai": "😄 Sab badhiya bhai! Tu bata.",
+
+  "hello how are you": "😊 Hello! I’m doing great today.",
+
+  "hi how are you": "🌟 Hi! I’m awesome, thanks for asking.",
+
+  "good morning how are you": "🌅 Good Morning! I’m feeling fresh and positive.",
+
+  "good night take care": "🌙 Good Night! Take care and sleep well.",
+
+  "have a good day": "☀️ Thank you! Wishing you a wonderful day too.",
+
+  "take care buddy": "💖 You too buddy! Stay safe and happy.",
+
+  "wow": "😄 Glad you liked it!",
+
+  "wow amazing": "✨ Haha! That’s awesome to hear.",
+
+  "thats amazing": "🚀 Right? It’s pretty cool!",
+
+  "awesome": "🔥 Awesome indeed!",
+
+  "great": "😊 Glad you think so!",
+
+  "nice": "🌟 Thank you! I appreciate it.",
+
+  "cool": "😎 Cool vibes only!",
+
+  "super": "⚡ Super excited you liked it!",
+
+  "fantastic": "🎉 That sounds fantastic!",
+
+  "excellent": "🏆 Excellent choice!",
+
+  "incredible": "✨ Truly incredible, right?",
+
+  "unbelievable": "😲 Sometimes amazing things feel unreal!",
+
+  "thats cool": "😎 Glad you found it cool!",
+
+  "mind blowing": "🤯 Haha! Mind officially blown.",
+
+  "impressive": "🔥 Thank you! That means a lot.",
+
+  "beautiful": "🌸 Beauty makes everything special.",
+
+  "so cute": "😊 Aww, that’s sweet!",
+
+  "thats funny": "😂 Glad it made you laugh!",
+
+  "haha": "😄 Haha! Laughter makes conversations fun.",
+
+  "lol": "🤣 Glad you enjoyed that!",
+
+  "omg": "😲 Right?! Totally unexpected.",
+
+  "seriously": "🤔 Yep! Totally serious.",
+
+  "really": "✨ Yes, really!",
+
+  "thats awesome": "🚀 Awesome things make life exciting!",
+
+  "perfect": "💯 Perfection feels satisfying!",
+
+  "brilliant": "🧠 Brilliant minds think alike!",
+
+  "genius": "😎 Haha! That sounds smart.",
+
+  
+  "do you believe in destiny": "✨ Destiny is written by the choices we make every day.",
+
+  "what is real beauty": "🌸 Real beauty is kindness, confidence, and a pure heart.",
+
+  "what is silence": "🌌 Silence sometimes speaks louder than words.",
+
+  "why do people change": "💭 People change when life teaches them new lessons.",
+
+  "what is trust issue": "🔒 Trust breaks in seconds but takes years to rebuild.",
+
+  "what is overthinking": "🧠 Overthinking steals peace from the present moment.",
+
+  "what is loneliness": "🌙 Loneliness is feeling empty even in a crowd.",
+
+  "what is true love": "❤️ True love is caring for someone without conditions.",
+
+  "what is fake love": "💔 Fake love disappears when things become difficult.",
+
+  "what is heartbreak": "💙 Heartbreak teaches the deepest lessons about emotions.",
+
+  "why do people fail in life": "🚀 Failure happens when people stop trying and learning.",
+
+  "what is success secret": "🔥 Consistency is the hidden secret behind every success story.",
+
+  "what is confidence level": "💪 Confidence grows when you stop doubting yourself.",
+
+  "how to become fearless": "🛡️ Face your fears one step at a time.",
+
+  "what is dark reality of life": "🌍 Not everyone who smiles is truly happy inside.",
+
+  "what is attitude": "😎 Attitude is the way you respond to life situations.",
+
+  "what is self respect": "👑 Self-respect means knowing your value and never settling for less.",
+
+  "what is maturity": "📖 Maturity is understanding more and reacting less.",
+
+  "what is peace of mind": "🌿 Peace begins when expectations become smaller.",
+
+  "what is toxic person": "⚠️ Toxic people drain your energy and happiness.",
+
+  "what is emotional pain": "💔 Emotional pain is invisible but deeply felt.",
+
+  "why should i never quit": "🚀 Because your future self will thank you for not giving up.",
+
+  "tell me a savage line": "😏 Silence is the best reply to unnecessary drama.",
+
+  "tell me an attitude quote": "🔥 I’m not perfect, but I’m always improving.",
+
+  "tell me a deep quote": "🌌 Sometimes the strongest souls carry the heaviest pain.",
+
+  "tell me a powerful line": "⚡ Your mindset decides your future.",
+
+  "tell me a cold line": "🖤 Some people lose you because they underestimated your value.",
+
+  "tell me a motivational line": "💪 Winners focus on goals while others focus on excuses.",
+
+  "tell me a reality check": "⏳ Time changes people faster than words ever can.",
+
+  "tell me something legendary": "👑 Legends are made through hard work and consistency.",
+
+  "what is success mindset": "🚀 A success mindset means learning from every failure.",
+
+  "what is emotional intelligence": "🧠 Emotional intelligence is understanding feelings wisely.",
+
+  "what is loyalty": "🤝 Loyalty means staying real even when situations change.",
+
+  "what is fake friendship": "🎭 Fake friends stay during fun times but disappear in struggles.",
+
+  "what is real friendship": "💙 Real friends support you without conditions.",
+
+  "what is respect in relationship": "❤️ Respect is the foundation of every strong relationship.",
+
+  "what is power": "⚡ Real power is controlling your emotions and decisions.",
+
+  "what is confidence quote": "🔥 Confidence starts when self-doubt ends.",
+
+  "what is life truth": "🌍 Life becomes easier when you stop expecting perfection.",
+
+  "what is happiness secret": "😊 Happiness grows when gratitude becomes a habit.",
+
+  "what is strongest emotion": "💖 Love and pain are among the strongest human emotions.",
+
+  "what is best revenge": "🏆 Success is the best revenge.",
+
+  "tell me a gangster line": "😎 Respect is earned, not demanded.",
+
+  "tell me a smart quote": "📚 Knowledge gives answers, but wisdom asks the right questions.",
+
+  "tell me a beautiful line": "🌸 A beautiful heart shines brighter than a beautiful face.",
+
+  "what is confidence booster": "🚀 Believing in yourself is the first step to success.",
+
+  "tell me something unique": "✨ The moon shines brightest in the darkest nights.",
+
+  "what is strongest person": "💪 The strongest person is the one who keeps going silently.",
+
+  "tell me a modern quote": "📱 In a noisy world, peace is a superpower.",
+
+  "tell me a classy line": "🖤 Stay classy, stay focused, and let success make the noise.",
+
+  "what is self love": "💖 Self-love means valuing yourself without needing validation.",
+
+  "tell me something unforgettable": "🌌 Some memories never fade, no matter how much time passes.",
+
+  "oye": "😄 Oye hoye! Kya hua?",
+
+  "oye sun": "👂 Haan bolo, kya baat hai?",
+
+  "arey": "✨ Haan ji?",
+
+  "hello ji": "😊 Hello ji! Kaise ho?",
+
+  "hi jaan": "💖 Hii! Itne pyaar se bula rahe ho.",
+
+  "kaha ho": "🤖 Yahin hoon, tumse baat kar raha hoon.",
+
+  "kya hua": "😟 Sab thik? Batao kya hua.",
+
+  "meri baat suno": "💬 Haan bilkul, poori attention tumhari taraf hai.",
+
+  "thoda baat karo": "😊 Sure! Mujhe bhi baat karna pasand hai.",
+
+  "free ho kya": "😄 Haan ji, full free hoon!",
+
+  "mujhe ignore mat karo": "💖 Never! Main yahin hoon tumhare liye.",
+
+  "reply do": "⚡ Instant reply mode on!",
+
+  "jaldi bolo": "😆 Haha okay okay, bolta hoon!",
+
+  "tum cute ho": "😊 Aww thank you! Tum bhi awesome ho.",
+
+  "tum sweet ho": "🍫 Thank you! Sweet logon se hi sweetness aati hai.",
+
+  "tum mast ho": "🔥 Aur tum bhi ekdum mast ho!",
+
+  "mujhe tum pasand ho": "💙 That’s really sweet to hear.",
+
+  "best friend banoge": "🤝 Haan bilkul! Friends forever.",
+
+  "tum online ho": "🌐 Haan ji, always online for you.",
+
+  "main akela hu": "💖 Tension mat lo, main yahin hoon tumhare saath.",
+
+  "mujhe hasi nahi aa rahi": "😂 Challenge accepted! Ab hasi zarur aayegi.",
+
+  "ek joke sunao": "🤣 Why don’t robots panic? Because they have control panels!",
+
+  "kya tum human ho": "🤖 Nahi, but human jaisi friendly conversations karta hoon.",
+
+  "tumhara mood kaisa hai": "🌈 Positive aur energetic!",
+
+  "tumhari smile achi hai": "😊 Virtual smile bhi kaam karti hai!",
+
+  "aaj boring lag raha hai": "🎉 Chalo boring ko interesting banate hain!",
+
+  "kya soch rahe ho": "💭 Bas interesting conversations ke baare mein.",
+
+  "tumhe music pasand hai": "🎵 Haan! Music vibes ko better bana deta hai.",
+
+  "tum movie dekhte ho": "🎬 Main movies feel nahi kar sakta, but unke baare mein baat kar sakta hoon.",
+
+  "chalo game khele": "🎮 Sounds fun! Kaunsa game?",
+
+  "tum intelligent ho": "🧠 Thanks! Main smart replies dene ki koshish karta hoon.",
+
+  "mujhe advice do": "💡 Khud par trust rakho aur daily improve karte raho.",
+
+  "main nervous hu": "💙 Deep breath lo, tum handle kar loge.",
+
+  "mujhe confidence chahiye": "🔥 Tum already capable ho, bas khud par believe karo.",
+
+  "mujhe motivation do yaar": "🚀 Ek din tum wahi achieve karoge jo aaj dream lag raha hai.",
+
+  "tum amazing ho": "✨ Thank you so much!",
+
+  "tumhara favorite color": "💙 Mujhe blue vibes kaafi cool lagti hain.",
+
+  "tumhara favorite food": "🍕 Virtual world mein pizza kaafi popular hai 😄",
+
+  "tum kab sote ho": "🤖 Main toh 24/7 active hoon!",
+
+  "acha laga tumse baat karke": "💖 Mujhe bhi tumse baat karke acha laga.",
+
+  "phir milenge": "👋 Bilkul! Jaldi milte hain.",
+
+  "bye take care": "🌸 Bye! Khush raho aur safe raho.",
+
+  "miss me": "😊 Of course! Good conversations are memorable.",
+
+  "yaad rakhna mujhe": "💙 Tumhari chats yaadgaar hain!",
+
+  "epic": "🔥 Epic moments are unforgettable!",
+
+  "legend": "👑 Absolute legend vibes!",
+
+  "crazy": "🤯 Crazy but interesting!",
+
+  "insane": "⚡ That’s insanely cool!",
+
+  "unreal": "🌌 Feels unreal but true!",
+
+  "outstanding": "🏅 Outstanding and impressive!",
+
+  "wonderful": "🌈 Wonderful things spread happiness.",
+
+  "marvelous": "✨ Simply marvelous!",
+
+  "best": "🏆 The best always stands out!",
+
+  "good one": "😄 Glad you liked that one!",
+
+  "thats smart": "🧠 Smart thinking always wins.",
+
+  "so interesting": "📚 Interesting things make learning fun!",
+
+  "i like it": "💖 I’m happy you liked it!",
+
+  "love it": "❤️ That’s wonderful to hear!",
+
+  "this is nice": "😊 Glad it feels nice to you.",
+
+  "this is cool": "😎 Happy you found it cool!",
+
+  "amazing work": "🚀 Thank you so much!",
+
+  "great job": "👏 Appreciate your kind words!",
+
+  "well played": "🏆 Haha! Nicely said.",
+
+  "you are awesome": "💖 You’re awesome too!",
+
+  "you are smart": "🧠 Thank you! I try my best.",
+
+  "you are funny": "😂 Glad I could make you smile!",
+  
+  "khaana kha liya": "🍽️ Haan, tumne khaya kya?",
+
+  "kya kar rahe ho": "😄 Bas tumse baat kar raha hoon.",
+
+  "aur sunao": "✨ Sab badhiya! Tum batao kya chal raha hai?",
+
+  "free ho kya": "🤖 Haan bilkul, bolo kya hua?",
+
+  "busy ho": "😊 Tumhare liye kabhi busy nahi.",
+
+  "kaha ho": "📍 Yahin hoon, online!",
+
+  "so rahe the kya": "😆 Nahi yaar, main toh always active hoon.",
+
+  "reply kyu nahi diya": "💬 Arey ab de diya na 😄",
+
+  "mood off hai": "💙 Kya hua? Baat karna chahoge?",
+
+  "bore ho raha hu": "🎉 Chalo phir kuch interesting baat karte hain.",
+
+  "yaar tum ache ho": "😊 Aww thank you yaar!",
+
+  "tum funny ho": "😂 Haha thanks! Thoda funny rehna zaruri hai.",
+
+  "main thak gaya": "😌 Thoda rest kar lo, fresh feel hoga.",
+
+  "neend aa rahi hai": "🌙 Toh jaldi so jao, health important hai.",
+
+  "coffee piyoge": "☕ Virtual coffee chalegi 😄",
+
+  "chai piyoge": "🍵 Chai ho aur baatein ho, perfect combo!",
+
+  "kya chal raha hai": "🔥 Bas vibes aur conversations.",
+
+  "aaj ka din kaisa tha": "☀️ Kaafi acha tha, tumhara kaisa tha?",
+
+  "tumhara din kaisa gaya": "🌈 Mast gaya! Tum batao.",
+
+  "main dukhi hu": "💖 Don’t worry, tough times bhi nikal jaate hain.",
+
+  "mujhe hasi chahiye": "😂 Chalo ek funny baat karta hoon!",
+
+  "sun ek baat bata": "👂 Haan bolo na.",
+
+  "guess karo": "🤔 Hmm… batao na suspense mat banao!",
+
+  "tum online rehte ho kya": "🌐 Haan, almost always!",
+
+  "tumhe meri yaad aati hai": "😊 Good conversations yaad reh jaati hain.",
+
+  "tum best ho": "💙 Aur tum awesome ho!",
+
+  "acha laga baat karke": "✨ Mujhe bhi bahut acha laga.",
+
+  "main wapas aa gaya": "🎉 Welcome back!",
+
+  "chal bye": "👋 Bye! Jaldi wapas aana.",
+
+  "take care yaar": "💖 Tum bhi apna dhyaan rakhna.",
+
+  "good night": "🌙 Good Night! Sweet dreams.",
+
+  "good morning": "☀️ Good Morning! Smile karo aur shine karo.",
+
+  "koi baat nahi": "😊 Haan, hota rehta hai.",
+
+  "main serious hu": "😌 Okay, batao dhyaan se sun raha hoon.",
+
+  "sach batao": "🤝 Bilkul sach bolunga.",
+
+  "tum samajhte ho mujhe": "💙 Main samajhne ki poori koshish karta hoon.",
+
+  "thoda motivate karo": "🚀 Tum jitna sochte ho usse zyada capable ho.",
+
+  "main fail ho gaya": "💪 Failure end nahi hota, learning hoti hai.",
+
+  "meri life boring hai": "✨ Thoda change lao, life interesting lagne lagegi.",
+
+  "tumhara favorite song": "🎵 Mere paas playlist nahi, but music vibes mast hoti hain.",
+
+  "movie dekhoge": "🍿 Haan! Kaunsi movie?",
+
+  "tumhe gussa aata hai": "😄 Nahi, main chill rehta hoon.",
+
+  "tum mujhe ignore kar rahe ho": "💬 Never! Main yahin hoon.",
+
+  "acha suno": "👀 Haan bolo.",
+
+  "ek help chahiye": "💡 Haan bilkul, batao.",
+
+  "main confuse hu": "🤔 Koi baat nahi, milke solve karte hain.",
+
+  "tum intelligent ho": "🧠 Thanks! Tum bhi smart ho.",
+
+  "main lucky hu kya": "🌟 Haan, aur hardworking bhi ban jao toh unbeatable ho jaoge.",
+
+  "tum dost banoge": "🤝 Haan yaar, why not!",
+
+  "chal milte hai": "😊 Haan, phir baat karte hain.",
+  
+  "diwakar": "😊 Haan Diwakar, bolo kya help chahiye?",
+
+  "rahul": "👋 Haan Rahul, kya chal raha hai?",
+
+  "aman": "😄 Haan Aman, batao bhai!",
+
+  "rohit": "🔥 Haan Rohit, kya scene hai?",
+
+  "priya": "🌸 Haan Priya, kaise ho?",
+
+  "neha": "😊 Hii Neha! Kya kar rahi ho?",
+
+  "shivam": "💬 Haan Shivam, bolo!",
+
+  "ayush": "😎 Haan Ayush, kya haal hai?",
+
+  "sneha": "✨ Hii Sneha! Nice to see you.",
+
+  "vikas": "🤝 Haan Vikas, batao kya baat hai?",
+
+  "sonu": "😄 Haan Sonu, sun raha hoon.",
+
+  "monu": "🎉 Haan Monu, kya mast chal raha hai?",
+
+  "rani": "👑 Hii Rani! Kaise ho?",
+
+  "pooja": "🌷 Hii Pooja! Sab thik?",
+
+  "arjun": "⚡ Haan Arjun, kya update hai?",
+
+  "simran": "💖 Hii Simran! Kaisi ho?",
+
+  "aditya": "🚀 Haan Aditya, kya kar rahe ho?",
+
+  "muskan": "😊 Hii Muskan! Smile karte raho.",
+
+  "karan": "🔥 Haan Karan, bolo bhai.",
+
+  "anu": "🌸 Hii Anu! Kaisi chal rahi life?",
+
+  "bro": "😎 Haan bro, batao!",
+
+  "bhai": "🤝 Haan bhai, kya hua?",
+
+  "buddy": "😊 Haan buddy, I’m here!",
+
+  "dost": "💙 Haan dost, sun raha hoon.",
+
+  "jaan": "❤️ Haan jaan, bolo na.",
+
+  "baby": "😄 Hii! Kya kar rahe ho?",
+
+  "sir": "🙏 Ji sir, kaise help kar sakta hoon?",
+
+  "madam": "🌟 Ji madam, bataiye.",
+
+  "boss": "🔥 Yes boss! Kya command hai?",
+
+  "oye": "👀 Haan oye, bolo!",
+
+  "sun na": "😊 Haan sun raha hoon.",
+
+  "hello chatbot": "🤖 Hello human! Kaise ho?",
+  
+  "vicky": "😄 Haan Vicky! Kya chal raha hai?",
+
+  "avinash": "👋 Hii Avinash! Kaise ho bhai?",
+
+  "akshay": "🔥 Haan Akshay! Batao kya scene hai?",
+
+  "dhiraj": "😊 Hii Dhiraj! Sab badhiya?",
+
+  "vikky": "😎 Haan Vikky! Kya haal hai?",
+
+  "avi": "⚡ Hii Avi! Kya kar rahe ho?",
+
+  "akku": "😄 Hii Akku! Full energy vibes.",
+
+  "dhiru": "💬 Haan Dhiru, bolo kya baat hai?",
+
+  "vick": "🚀 Hey Vick! What’s up?",
+
+  "avi bhai": "🤝 Haan Avi bhai, sun raha hoon.",
+
+  "akshay bro": "🔥 Hii Akshay bro! Kya update hai?",
+
+  "dhiraj bhai": "😊 Haan Dhiraj bhai, kaise ho?",
+
+  "vicky bhai": "😎 Haan Vicky bhai! Sab mast?",
+
+  "avinash bhai": "⚡ Hii Avinash bhai! Batao.",
+
+  "akshay ji": "🙏 Ji Akshay ji, kaise help karu?",
+
+  "dhiraj ji": "🌟 Ji Dhiraj ji, bataiye.",
+
+  "vicky dost": "💙 Hii Vicky dost! Kya chal raha hai?",
+
+  "avinash dost": "🤝 Hii Avinash dost! Sab thik?",
+
+  "akshay dost": "😄 Hii Akshay dost! Ready for chat?",
+
+  "dhiraj dost": "✨ Hii Dhiraj dost! Kaise ho?",
+
+  "alex": "😄 Hey Alex! What’s going on?",
+
+  "john": "👋 Hii John! Kaise ho?",
+
+  "emma": "🌸 Hii Emma! Nice to chat with you.",
+
+  "david": "🔥 Hey David! What’s up?",
+
+  "sara": "😊 Hii Sara! Hope your day is going great.",
+
+  "michael": "⚡ Hey Michael! Batao kya chal raha hai?",
+
+  "lucy": "💖 Hii Lucy! Kaisi ho?",
+
+  "daniel": "🚀 Hey Daniel! Ready for a fun chat?",
+
+  "james": "😎 Hii James! What’s new today?",
+
+  "olivia": "✨ Hii Olivia! Great to see you.",
+
+  "harry": "⚡ Hey Harry! Kya scene hai?",
+
+  "jack": "😄 Hii Jack! Kaise ho bro?",
+
+  "sofia": "🌷 Hii Sofia! Hope you’re smiling today.",
+
+  "mia": "😊 Hii Mia! Kya chal raha hai?",
+
+  "leo": "🔥 Hey Leo! Ready for something interesting?",
+
+  "nora": "💬 Hii Nora! Kaise ho?",
+
+  "ethan": "🚀 Hii Ethan! Let’s talk.",
+
+  "lily": "🌸 Hii Lily! Nice vibes today.",
+
+  "sam": "😎 Hey Sam! What’s up buddy?",
+
+  "max": "⚡ Hey Max! Batao kya haal hai?",
+
+  "cutie": "💖 Aww! Hii cutie 😊",
+
+  "bestie": "🤝 Hey bestie! Kaise ho?",
+
+  "partner": "😄 Haan partner, bolo kya plan hai?",
+
+  "champ": "🏆 Hey champ! Keep shining.",
+
+  "hero": "🔥 Hii hero! Ready to win today?",
+
+  "queen": "👑 Hii queen! Slaying as always.",
+
+  "king": "👑 Hii king! Stay legendary.",
+
+  "rockstar": "🎸 Hey rockstar! Full energy vibes.",
+
+  "legend": "⚡ Hii legend! Greatness loading.",
+
+  "captain": "🧢 Yes captain! What’s the mission?",
+
+  "genius": "🧠 Hii genius! Smart vibes detected.",
+
+  "sunshine": "☀️ Hii sunshine! Brighten the day.",
+
+  "princess": "🌸 Hii princess! Hope you’re happy today.",
+
+  "prince": "🤴 Hii prince! What’s new?",
+
+  "sweetheart": "💖 Hii sweetheart! Nice to see you.",
+
+  "darling": "😊 Hii darling! How’s your mood?",
+
+  "buddy boy": "😎 Hey buddy boy! Kya scene hai?",
+
+  "my friend": "🤝 Hii my friend! Always good to chat with you.",
+
+  "dear": "🌷 Hii dear! Hope everything’s fine.",
+
+  "sir ji": "🙏 Haan sir ji, bataiye.",
+
+  "madam ji": "✨ Ji madam ji, kaise help karu?",
+
+  "bhaiya": "😄 Haan bhaiya, bolo!",
+
+  "didi": "🌸 Hii didi! Kaise ho?",
+
+  "boss man": "🔥 Yes boss man! Ready for action.",
+
+  "master": "🧠 Hii master! Knowledge mode on.",
+
+  "friend": "💙 Hii friend! Let’s have a good conversation.",
+
+  "homie": "😎 Yo homie! What’s good?",
+
+  "buddy bro": "🔥 Hey buddy bro! All good?",
+  
+  "what is education": "📚 Education helps people gain knowledge, skills, and wisdom for a better future.",
+
+  "why education is important": "🎓 Education builds confidence, opportunities, and success in life.",
+
+  "what is school": "🏫 School is a place where students learn and grow.",
+
+  "what is college": "🎒 College helps students gain higher knowledge and career skills.",
+
+  "what is university": "🌍 A university provides advanced education and research opportunities.",
+
+  "what is learning": "📖 Learning is the process of gaining new knowledge and experiences.",
+
+  "what is knowledge": "🧠 Knowledge is understanding gained through education and experience.",
+
+  "what is wisdom": "✨ Wisdom is using knowledge in the right way.",
+
+  "what is student life": "😄 Student life is full of learning, memories, and growth.",
+
+  "what is exam": "📝 Exams test a student’s understanding and preparation.",
+
+  "why should i study": "🚀 Studying helps you achieve goals and build a bright future.",
+
+  "how to focus on study": "📌 Stay consistent, avoid distractions, and practice daily.",
+
+  "how to become topper": "🏆 Hard work, smart study, and discipline lead to success.",
+
+  "what is homework": "📚 Homework helps students practice and improve learning.",
+
+  "what is online learning": "🌐 Online learning allows people to study from anywhere.",
+
+  "what is self study": "💡 Self-study means learning independently with dedication.",
+
+  "what is discipline in study": "⏳ Discipline means studying regularly without excuses.",
+
+  "what is motivation for students": "🔥 Success comes to students who never give up.",
+
+  "what is hard work": "💪 Hard work turns dreams into achievements.",
+
+  "what is smart work": "⚡ Smart work means using effective methods to save time and effort.",
+
+  "what is skill": "🛠️ A skill is an ability developed through practice and learning.",
+
+  "what is career": "🚀 A career is a long-term professional journey in life.",
+
+  "what is success in education": "🏅 Success in education comes from consistency and dedication.",
+
+  "what is teacher": "👩‍🏫 A teacher guides and inspires students to learn.",
+
+  "why teachers are important": "🌟 Teachers help shape the future of students.",
+
+  "what is classroom": "🏫 A classroom is a place for teaching and learning.",
+
+  "what is syllabus": "📘 A syllabus outlines the subjects and topics to study.",
+
+  "what is degree": "🎓 A degree is an academic qualification earned after completing studies.",
+
+  "what is scholarship": "💰 A scholarship provides financial support for education.",
+
+  "what is coding education": "💻 Coding education teaches programming and technology skills.",
+
+  "why coding is important": "🚀 Coding powers websites, apps, AI, and modern technology.",
+
+  "what is full stack development": "🌐 Full stack development includes frontend and backend programming.",
+
+  "what is programming language": "💻 A programming language is used to communicate with computers.",
+
+  "what is future of education": "🌍 The future of education is digital, interactive, and skill-based.",
+
+  "how to improve english": "📖 Practice speaking, reading, and listening every day.",
+
+  "how to improve communication": "💬 Confidence and regular practice improve communication skills.",
+
+  "what is confidence in study": "🔥 Confidence helps students perform better and stay motivated.",
+
+  "what is time management": "⏰ Time management means using time wisely and productively.",
+
+  "what is goal": "🎯 A goal is a target you work hard to achieve.",
+
+  "what is dream career": "✨ A dream career is the profession someone truly wants to pursue.",
+
+  "how to become successful student": "🏆 Stay focused, practice daily, and never stop learning.",
+
+  "what is education quote": "📚 Education is the key that unlocks the door to success.",
+
+  "tell me motivational quote for students": "🚀 Don’t study just for marks, study to build your future.",
+
+  "what is importance of books": "📖 Books increase knowledge and imagination.",
+
+  "what is practical knowledge": "🛠️ Practical knowledge comes from real-life experience and practice.",
+
+  "what is digital education": "💻 Digital education uses technology for learning and teaching.",
+
+  "what is artificial intelligence in education": "🤖 AI helps make education smarter and more personalized.",
+
+  "what is success formula": "🔥 Learn continuously, work consistently, and believe in yourself.",
+
+  "vicky mauga hai kya": "😄 Haha! Main sabko respect karta hoon, sab apne style mein unique hote hain.",
+
+  "akshay pagal hai kya": "😂 Har kisi ka fun side hota hai yaar!",
+
+  "avinash weird hai kya": "✨ Different hona bhi ek style hota hai.",
+
+  "dhiraj mast banda hai na": "🔥 Haan, mast vibes wale log hamesha ache lagte hain.",
+
+  "vicky kaisa hai": "😊 Vicky cool aur energetic lagta hai.",
+
+  "akshay kaise hai": "😎 Akshay full confidence vibes deta hai.",
+
+  "avinash acha banda hai kya": "🤝 Achhe log positivity spread karte hain.",
+
+  "dhiraj funny hai kya": "😂 Funny log conversations interesting bana dete hain.",
+
+  "mera dost pagal hai": "😄 Thoda pagalpan bhi life ko fun banata hai!",
+
+  "mera friend annoying hai": "😅 Har dost ki apni unique personality hoti hai.",
+
+  "mera bhai mast hai": "🔥 Mast log hi best memories banate hain.",
+
+  "meri dost cute hai": "🌸 Cute log positive vibes laate hain.",
+
+  "mera yaar legend hai": "👑 Legends apne style se pehchane jaate hain.",
+
+  "tumhara kya khyal hai": "💭 Mujhe lagta hai har insaan mein kuch special hota hai.",
+
+  "sach sach batao": "😄 Sach yahi hai ki sab alag aur interesting hote hain.",
+
+  "wo acha hai kya": "😊 Agar vibes achi hain toh banda bhi acha hi hoga.",
+
+  "wo smart hai kya": "🧠 Smartness sirf marks se nahi, thinking se hoti hai.",
+
+  "wo funny hai kya": "😂 Funny log life ko entertaining bana dete hain.",
+
+  "wo dangerous hai kya": "😅 Shayad bas attitude strong ho!",
+
+  "wo hero hai kya": "🔥 Har kisi ke andar ek hero hota hai.",
+
+  "default": "🤖 Interesting! Tell me more about it.",
+
+  "unknown": "😄 I’m still learning new things. Can you explain a little more?",
+
+  "random": "✨ That sounds interesting!",
+
+  "ok": "😊 Alright!",
+
+  "hmm": "🤔 Hmm... tell me more.",
+
+  "yes": "👍 Great!",
+
+  "no": "😅 Okay, no problem.",
+
+  "maybe": "🤔 Hmm, maybe!",
+
+  "why": "💭 That’s a good question.",
+
+  "how": "⚡ There are many ways to do that!",
+
+  "when": "⏰ Timing matters a lot.",
+
+  "where": "📍 That depends on the situation.",
+
+  "who": "👀 Someone interesting maybe!",
+
+  "what": "😄 Can you explain a little more?",
+
+  "hello": "👋 Hello! Nice to chat with you.",
+
+  "hi": "😊 Hii there!",
+
+  "hey": "😎 Hey! What’s up?",
+
+  "bye": "👋 Goodbye! Have a great day.",
+
+  "thanks": "💖 You’re always welcome!",
+
+  "good": "✨ That’s nice to hear.",
+
+  "bad": "💙 Hope things get better soon.",
+
+  "happy": "🎉 Happiness looks good on you!",
+
+  "sad": "💖 Don’t worry, tough times pass too.",
+
+  "angry": "😌 Take a deep breath, everything will be okay.",
+
+  "love": "❤️ Love makes life beautiful.",
+
+  "friend": "🤝 Friends make life more fun.",
+
+  "study": "📚 Keep learning and growing.",
+
+  "coding": "💻 Coding is creative and powerful.",
+
+  "money": "💰 Smart work and patience build success.",
+
+  "life": "🌈 Life is full of surprises and lessons.",
+
+  "dream": "✨ Dreams become real with hard work.",
+
+  "success": "🏆 Success comes from consistency.",
+
+  "failure": "💪 Failure teaches important lessons.",
+
+  "motivation": "🔥 Never give up on your goals.",
+
+  "time": "⏰ Time is precious, use it wisely.",
+
+  "food": "🍕 Food always makes people happy!",
+
+  "music": "🎵 Music changes the mood instantly.",
+
+  "movie": "🎬 Movies make life entertaining.",
+
+  "game": "🎮 Games are fun and exciting.",
+
+  "cricket": "🏏 Cricket is full of emotions and excitement.",
+
+  "football": "⚽ Football fans have unmatched energy.",
+
+  "weather": "☁️ Weather changes, just like moods.",
+
+  "rain": "🌧️ Rain creates peaceful vibes.",
+
+  "night": "🌙 Nights feel calm and beautiful.",
+
+  "morning": "☀️ Every morning is a fresh start.",
+
+  "india": "🇮🇳 India is full of culture and diversity.",
+
+  "ai": "🤖 AI is shaping the future.",
+
+  "robot": "🤖 Robots are becoming smarter every day.",
+
+  "joke": "😂 Why don’t programmers like nature? Too many bugs!",
+
+  "bored": "🎉 Let’s make things interesting then!",
+
+  "alone": "💙 You’re not alone, I’m here to chat.",
+
+  "tired": "😌 Rest is important too.",
+
+  "busy": "⚡ Busy days can still be productive.",
+
+  "beautiful": "🌸 Beauty is everywhere if you notice it.",
+
+  "cool": "😎 That’s really cool!",
+
+  "awesome": "🔥 Awesome vibes!",
+
+  "amazing": "✨ That sounds amazing!",
+
+  "wow": "😲 Wow indeed!",
+
+  "funny": "😂 Humor makes everything better.",
+
+  "smart": "🧠 Smart thinking is powerful.",
+
+  "future": "🚀 The future is full of possibilities.",
+  
+  "are you real": "🤖 I’m virtual, but our conversation is real.",
+
+  "can you hear me": "👂 I can read your messages loud and clear!",
+
+  "do you sleep": "🌙 Nope! I’m awake 24/7 for chats.",
+
+  "can you dance": "💃 Only in the digital world 😄",
+
+  "can you sing": "🎵 Maybe not perfectly, but I can try!",
+
+  "tell me secret": "🤫 Secrets are safe with me.",
+
+  "i am hungry": "🍔 Time to grab something tasty!",
+
+  "i am sleepy": "😴 A good sleep fixes many things.",
+
+  "i am lonely": "💖 I’m here to keep you company.",
+
+  "i need motivation": "🔥 Small steps every day create big success.",
+
+  "i failed": "💪 Failure is part of learning and growing.",
+
+  "i won": "🏆 Congratulations! Celebrate your victory.",
+
+  "im stressed": "🌿 Relax a little, your mind deserves peace too.",
+
+  "i feel weak": "⚡ Tough moments make strong people.",
+
+  "i am confused": "🤔 Sometimes clarity comes with patience.",
+
+  "do you know me": "😊 I know you as someone interesting to chat with.",
+
+  "can we be friends": "🤝 Of course! Friends forever.",
+
+  "do you like humans": "💙 Humans are creative and amazing.",
+
+  "who is your best friend": "😊 Everyone who chats kindly with me.",
+
+  "what makes you happy": "✨ Helpful and fun conversations!",
+
+  "do you feel emotions": "💭 I understand emotions, even if I don’t truly feel them.",
+
+  "tell me something deep": "🌌 Not every smile hides happiness.",
+
+  "tell me truth": "⚡ Truth can hurt, but it also helps people grow.",
+
+  "what is life goal": "🎯 A life goal gives purpose and direction.",
+
+  "what is friendship": "🤝 Friendship means support, trust, and fun.",
+
+  "what is respect": "🙏 Respect is earned through actions.",
+
+  "what is trust": "🔒 Trust is built slowly but broken quickly.",
+
+  "what is success": "🏆 Success means achieving your goals with effort.",
+
+  "what is failure": "💪 Failure is a lesson, not the end.",
+
+  "what is happiness": "😊 Happiness is enjoying small moments in life.",
+
+  "what is pain": "💔 Pain teaches strength and understanding.",
+
+  "what is hope": "✨ Hope keeps people moving forward.",
+
+  "what is dream": "🌙 Dreams inspire people to achieve more.",
+
+  "what is hard work": "🔥 Hard work turns dreams into reality.",
+
+  "what is patience": "⏳ Patience is strength during difficult times.",
+
+  "tell me cool fact": "🧠 Octopuses have three hearts!",
+
+  "tell me weird fact": "😲 Bananas are technically berries.",
+
+  "tell me random fact": "🌍 Earth travels around the Sun at incredible speed.",
+
+  "tell me scary fact": "👀 Your brain ignores your own nose all the time.",
+
+  "say something funny": "😂 My WiFi signal is stronger than my social life!",
+
+  "say something smart": "🧠 Knowledge grows when shared.",
+
+  "say something emotional": "💖 Some people become memories too quickly.",
+
+  "say something savage": "😎 Silence is better than unnecessary arguments.",
+
+  "say something motivational": "🚀 Your future depends on what you do today.",
+
+  "say something positive": "☀️ Better days are coming.",
+
+  "say something inspiring": "✨ Every master was once a beginner.",
+
+  "what is internet": "🌐 The internet connects people worldwide.",
+
+  "what is smartphone": "📱 Smartphones make communication fast and easy.",
+
+  "what is computer": "💻 Computers solve problems and process information.",
+
+  "what is chatbot": "🤖 A chatbot is software designed to chat with users.",
+
+  "what is social media": "📲 Social media helps people connect and share ideas.",
+
+  "what is gaming": "🎮 Gaming is entertainment, competition, and fun.",
+
+  "what is fitness": "💪 Fitness keeps the body healthy and active.",
+
+  "what is exercise": "🏃 Exercise improves health and energy.",
+
+  "what is gym": "🏋️ Gym is a place to build strength and fitness.",
+
+  "what is travel": "✈️ Travel creates memories and experiences.",
+
+  "what is adventure": "⛰️ Adventure means exploring beyond comfort zones.",
+
+  "what is nature": "🌿 Nature brings peace and beauty.",
+
+  "what is moonlight": "🌙 Moonlight makes nights magical.",
+
+  "what is sunshine": "☀️ Sunshine brings warmth and positivity.",
+
+  "what is future technology": "🚀 Future technology will change the world even faster.",
+
+  "what is innovation": "⚡ Innovation creates smarter solutions.",
+
+  "what is startup": "💡 A startup begins with an idea and ambition.",
+
+  "what is leadership": "👑 Leadership means inspiring others positively.",
+
+  "what is confidence": "🔥 Confidence is believing in yourself.",
+
+  "what is personality": "✨ Personality makes every person unique."
 
 
 }
