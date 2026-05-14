@@ -2338,6 +2338,27 @@ export const Message=async(req,res)=>{
 
   "freedom fighters": "🔥 Freedom fighters ne India ki independence ke liye bahut sacrifice kiya.",
 
+  
+  "main bhi thik hun": "😊 Yeh sunke acha laga!",
+
+  "mai bhi thik hu": "✨ Great! Hamesha khush raho.",
+
+  "main theek hu": "😄 Nice! Positive vibes maintain rakho.",
+
+  "me bhi thik hu": "🌸 Good to hear that!",
+
+  "sab badhiya": "🔥 Wah! Aise hi smile karte raho.",
+
+  "mast hu": "😎 Great! Full energy vibes.",
+
+  "bilkul thik": "💙 Awesome! Stay happy always.",
+
+  "main acha hu": "😊 Bahut badhiya!",
+
+  "all good": "✨ Nice to know everything is good.",
+
+  "i am also fine": "😄 Glad to hear that!",
+
   "ramayan ke bare main btao": "📖 Ramayan ek ancient Indian epic hai jo Lord Rama, Sita, Lakshman aur Hanuman ki kahani batati hai.",
 
   "lord rama": "🏹 Lord Rama truth, discipline aur righteousness ke symbol maane jaate hain.",
@@ -2355,6 +2376,100 @@ export const Message=async(req,res)=>{
   "geography ke bare main btao": "🌍 Geography Earth, climate, mountains, rivers aur countries ka study hai.",
 
   "what is geography": "🗺️ Geography hume duniya aur environment ko samajhne mein help karti hai.",
+
+  "haan sab thik hai": "😊 Great! Bas aise hi smile karte raho.",
+
+  "life achi chal rahi hai": "🌈 Nice! Enjoy every moment.",
+
+  "aaj mood acha hai": "✨ Good mood = good vibes.",
+
+  "aaj ka din acha tha": "☀️ Amazing! Hope kal aur better ho.",
+
+  "sab mast chal raha": "🔥 Wah! Positive energy maintain rakho.",
+
+  "kya kar rahe ho": "🤖 Bas tumse interesting baatein kar raha hoon.",
+
+  "tum kya karte ho": "💻 Main chatting aur help karne ke liye bana hoon.",
+
+  "tumhara mood kaisa hai": "😄 Always ready for good conversations!",
+
+  "kya soch rahe ho": "💭 New interesting replies ke bare mein.",
+
+  "main free hu": "🎉 Perfect! Chalo phir baat karte hain.",
+
+  "main busy hu": "⚡ Koi baat nahi, thoda break bhi important hai.",
+
+  "main tired hu": "😌 Rest bhi zaroori hota hai.",
+
+  "main excited hu": "🚀 Excitement life ko fun banata hai!",
+
+  "main nervous hu": "💙 Relax, tum soch se zyada capable ho.",
+
+  "main confuse hu": "🤔 Step by step socho, clarity mil jayegi.",
+
+  "kuch interesting karo": "✨ Chalo koi fun topic ya game try karte hain.",
+
+  "kuch naya batao": "🧠 Human brain around 86 billion neurons se bana hota hai!",
+
+  "kuch fun karo": "😂 Chalo ek joke suno: WiFi slow ho toh sab scientist ban jaate hain!",
+
+  "kuch amazing bolo": "🌌 Universe mein billions of galaxies hain.",
+
+  "kuch crazy bolo": "😲 Octopus ke 3 hearts hote hain!",
+
+  "kuch awesome bolo": "🔥 Tumhari potential tumhare doubts se zyada powerful hai.",
+
+  "kuch chill bolo": "😌 Relax karo, life ko itna serious mat lo.",
+
+  "kuch cute bolo": "🌸 Smile karo, tum par suit karta hai.",
+
+  "kuch stylish bolo": "😎 Simplicity bhi ek style hota hai.",
+
+  "kuch classy bolo": "🖤 Silence aur confidence best combination hai.",
+
+  "kuch energetic bolo": "⚡ Full power mode on!",
+
+  "kuch inspirational bolo": "🚀 Great journeys small steps se start hoti hain.",
+
+  "kuch success ke liye bolo": "🏆 Winners excuses nahi, effort dikhate hain.",
+
+  "kuch future ke liye bolo": "✨ Future unka hota hai jo aaj action lete hain.",
+
+  "kuch friendship ke liye bolo": "🤝 Real friends distance se nahi badalte.",
+
+  "kuch relationship ke liye bolo": "❤️ Respect aur trust relation ko strong banate hain.",
+
+  "kuch family ke liye bolo": "🏡 Family life ka biggest support system hoti hai.",
+
+  "kuch dreams ke liye bolo": "🌟 Big dreams ke liye big effort chahiye.",
+
+  "kuch confidence ke liye bolo": "💪 Believe in yourself and keep moving.",
+
+  "kuch hard work ke liye bolo": "🔥 Hard work silently future change karta hai.",
+
+  "kuch discipline ke liye bolo": "📌 Discipline success ki hidden key hai.",
+
+  "kuch happiness ke liye bolo": "😊 Happiness choti choti cheezon mein milti hai.",
+
+  "kuch reality check do": "💭 Har kisi ko khush rakhna impossible hai.",
+
+  "kuch smart fact do": "🧠 Human brain computer se bhi zyada powerful hai.",
+
+  "kuch technology ke bare mein bolo": "💻 AI aur technology future ko reshape kar rahe hain.",
+
+  "kuch coding ke bare mein bolo": "⚡ Coding imagination ko reality bana deti hai.",
+
+  "kuch gaming ke bare mein bolo": "🎮 Gaming reflex aur strategy improve karti hai.",
+
+  "kuch gym ke bare mein bolo": "🏋️ Consistency muscles aur mindset dono build karti hai.",
+
+  "kuch health ke bare mein bolo": "🌿 Healthy habits long-term energy deti hain.",
+
+  "kuch moon ke bare mein bolo": "🌙 Moon dark nights mein bhi shine karta hai.",
+
+  "kuch stars ke bare mein bolo": "✨ Stars remind karte hain ki darkness mein bhi light hoti hai.",
+
+  "kuch rain ke bare mein bolo": "🌧️ Rain peaceful aur nostalgic vibes laati hai.",
 
   "earth": "🌍 Earth ek hi known planet hai jahan life exist karti hai.",
 
